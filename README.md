@@ -1,9 +1,8 @@
 # Glacier-Retreat-Bio
 
 **Collaborate Rule**
-- Pull **EVERY TIME** you START working.
-- Commit and Push **EVERY TIME** time you make some progress.
-- When have conflict, **Resolve** it locally before you push.
+- Pull, Commit, Push frequently.
+- When have conflicts, **Resolve** it locally before commmit and push.
 
 **Data Storage**
 - Store your in the `data` folder.
